@@ -15,4 +15,3 @@ script:
   - xcodebuild build -project Samples/SimpleFileUploadServer/SimpleFileUploadServer.xcodeproj -scheme SimpleFileUploadServer
   - xcodebuild build -project Samples/SimpleHTTPServer/SimpleHTTPServer.xcodeproj -scheme SimpleHTTPServer
   - xcodebuild build -project Samples/SimpleWebSocketServer/SimpleWebSocketServer.xcodeproj -scheme SimpleWebSocketServer
-  - xcodebuild build -project Samples/WebDAVServer/WebDAVServer.xcodeproj -scheme WebDAVServer
